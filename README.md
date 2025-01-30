@@ -47,5 +47,3 @@ Comandos para optimizar el entorno de desarrollo en React.
 
 ---
 
-### 🚀 Con estos comandos, gestionar proyectos React será mucho más fácil. 💪
-
